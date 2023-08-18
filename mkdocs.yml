@@ -1,5 +1,5 @@
-site_name: 站点名字（请修改）
-repo_url: https://github.com/linyuxuanlin/Wiki-nonsense #（请修改为你自己的仓库地址）
+site_name: owenzjg's note
+repo_url: https://github.com/owenzjg/note
 edit_uri: edit/main/docs/
 
 theme:
